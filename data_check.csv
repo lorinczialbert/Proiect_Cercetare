@@ -1,0 +1,4 @@
+Datensatz,Zeilen,Spalten,Fehlend,Keine_Zahl,Unendlich,Konstante_Groessen,Regelmaessige_Zeit,Zeitschritt
+Normal,302,97,0,0,0,40,True,10.0
+LOCA,475,97,0,0,0,25,True,10.0
+SGATR,551,97,0,0,0,49,True,10.0
