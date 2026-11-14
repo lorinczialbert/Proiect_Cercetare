@@ -1,0 +1,6 @@
+partition,windows,time_steps,features
+normal_train,170,12,96
+normal_val,37,12,96
+normal_test,38,12,96
+LOCA,464,12,96
+SGATR,540,12,96
